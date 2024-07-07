@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/goluyadav12874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goluyadav12874" height="30" width="40" /></a>
+<a href="https://twitter.com/goluyadav12874" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/indonesia-31-july-2023-logo-260nw-2340258601.jpg" alt="goluyadav12874" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chhatterpal-yadav-162936261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhatterpal-yadav-162936261" height="30" width="40" /></a>
 </p>
 
